@@ -15,7 +15,7 @@ body {
 span {
     color:  hsl(277, 64%, 61%);
 }
-h1 {
+h1, h2 {
     color: #fff;
     font-weight: 700;
     font-family: 'Inter', sans-serif;;
@@ -25,11 +25,6 @@ h1 {
     font-weight: 400;
     font-family: 'Inter', sans-serif;
     margin: 7% 0 15%;
-}
-h2 {
-    color: #fff;
-    font-weight: 700;
-    font-family: 'Inter', sans-serif;
 }
 .stat-headings {
     color: hsla(0, 0%, 100%, 0.6);
