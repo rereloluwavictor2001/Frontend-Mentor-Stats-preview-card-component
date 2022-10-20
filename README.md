@@ -27,14 +27,17 @@ Users should be able to:
 ### Screenshot
 
 - desktop Preview
+
 ![](./design/desktop-preview.jpg)
 
 
 - Desktop Design
+
 ![](./design/desktop-design.jpg)
 
 
 - Mobile Design
+
 ![](./design/mobile-design.jpg)
 
 
