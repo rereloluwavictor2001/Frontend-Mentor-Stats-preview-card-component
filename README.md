@@ -28,15 +28,19 @@ Users should be able to:
 
 ### Screenshot
 
+- desktop Preview
+
+![](./design/image-header-desktop.jpg.jpg)
+
 - Desktop Design
 
 
-![](./images/image-header-desktop.jpg)
+![](./design/image-header-desktop.jpg)
 
 
 - Mobile Design
 
-![](./images/image-header-mobile.jpg)
+![](./design/image-header-mobile.jpg)
 
 
 
