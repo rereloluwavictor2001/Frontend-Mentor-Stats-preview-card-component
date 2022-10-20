@@ -28,10 +28,9 @@ Users should be able to:
 
 - desktop Preview
 
-![](./design/desktop-preview.jpg.jpg)
+![](./design/desktop-preview.jpg)
 
 - Desktop Design
-
 
 ![](./design/desktop-design.jpg)
 
