@@ -16,8 +16,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -64,7 +62,7 @@ Users should be able to:
 
 I learnt how to swap between two pictures for a responsive website with html tags. I also learnt how to order divs with css.
 
-To see how you can add code snippets, see below:
+See code snippet below:
 
 ```html
   <picture>
