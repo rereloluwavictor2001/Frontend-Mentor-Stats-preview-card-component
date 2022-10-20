@@ -30,17 +30,17 @@ Users should be able to:
 
 - desktop Preview
 
-![](./design/image-header-desktop.jpg.jpg)
+![](./design/desktop-preview.jpg.jpg)
 
 - Desktop Design
 
 
-![](./design/image-header-desktop.jpg)
+![](./design/desktop-design.jpg)
 
 
 - Mobile Design
 
-![](./design/image-header-mobile.jpg)
+![](./design/mobile-design.jpg)
 
 
 
